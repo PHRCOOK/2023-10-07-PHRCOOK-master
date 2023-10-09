@@ -1,0 +1,44 @@
+{
+  "actors": [
+    {
+      "id": 1,
+      "name": "Johnny Deep",
+      "movies": "Pirates of the Caribbean",
+      "age": 60,
+      "summary": "John Christopher Depp II (born June 9, 1963) is an American actor and musician. He is the recipient of multiple accolades, including a Golden Globe Award and a Screen Actors Guild Award, and has been nominated for three Academy Awards and two BAFTA awards.",
+      "image": "https://i0.wp.com/elplanetaurbano.com/wp-content/uploads/2023/05/Johnny-Depp.jpg?fit=1500%2C1125&ssl=1"
+    },
+    {
+      "id": 2,
+      "name": "Morgan Freeman",
+      "movies": "Trascendence",
+      "age": 86,
+      "summary": "Born in Memphis, Tennessee, Freeman was raised in Mississippi where he began acting in school plays. He studied theater arts in Los Angeles and appeared in stage productions in his early career. He rose to fame in the 1970s for his role in the children's television series The Electric Company.",
+      "image": "https://cdn.britannica.com/40/144440-050-DA828627/Morgan-Freeman.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Mel Gibson",
+      "movies": "The Patriot",
+      "age": 67,
+      "summary": "Mel Gibson, in full Mel Columcille Gerard Gibson, (born January 3, 1956, Peekskill, New York, U.S.), American-born Australian actor who became an international star with a series of action-adventure films in the 1980s and later earned acclaim as a director and producer.",
+      "image": "https://ntvb.tmsimg.com/assets/assets/633_v9_bd.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Tom Cruise",
+      "movies": "Top Gun",
+      "age": 61,
+      "summary": "Tom Cruise is an American actor known for his roles in iconic films throughout the 1980s, 1990s and 2000s, as well as his high profile marriages to actresses Nicole Kidman and Katie Holmes. After developing an interest in acting during high school, he rocketed to fame with his star turns in Risky Business and Top Gun.",
+      "image": "https://m.media-amazon.com/images/M/MV5BYTFlOTdjMjgtNmY0ZC00MDgxLThjNmEtZGIxZTQyZDdkMTRjXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg"
+    },
+    {
+      "id": 5,
+      "name": "George Clooney",
+      "movies": "Intolerable Cruelty",
+      "age": 62,
+      "summary": "George Timothy Clooney (born May 6, 1961) is an American actor and filmmaker. He is the recipient of numerous accolades, including a British Academy Film Award, four Golden Globe Awards, and two Academy Awards; one for his acting and the other as a producer.",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjEyMTEyOTQ0MV5BMl5BanBnXkFtZTcwNzU3NTMzNw@@._V1_.jpg"
+    }
+  ]
+}

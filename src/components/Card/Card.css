@@ -1,0 +1,30 @@
+.Card {
+  border: 1px solid #ccc;
+  padding: 10px;
+  margin-bottom: 10px;
+}
+
+.actor-name {
+  font-size: 18px;
+  margin-bottom: 5px;
+}
+
+.actor-image {
+  width: 100px;
+  height: 150px;
+  object-fit: cover;
+  margin-bottom: 5px;
+}
+
+.actor-age {
+  font-size: 14px;
+  color: #888;
+}
+
+.delete-button {
+  background-color: red;
+  color: white;
+  border: none;
+  padding: 5px 10px;
+  cursor: pointer;
+}

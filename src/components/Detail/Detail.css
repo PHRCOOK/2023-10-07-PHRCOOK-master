@@ -1,0 +1,32 @@
+.detail-container {
+  background-color: #9e1a1a;
+  padding: 20px;
+  border-radius: 5px;
+}
+
+.actor-image {
+  width: 200px;
+  height: 200px;
+  object-fit: cover;
+  border-radius: 50%;
+}
+
+.actor-name {
+  font-size: 24px;
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
+.actor-age {
+  font-size: 16px;
+  color: #888;
+}
+
+.actor-movies {
+  margin-top: 10px;
+}
+
+.actor-summary {
+  margin-top: 20px;
+  font-size: 18px;
+}

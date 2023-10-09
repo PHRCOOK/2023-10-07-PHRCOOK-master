@@ -1,0 +1,40 @@
+/* Estilos para el componente Home */
+.Home {
+  text-align: center;
+}
+
+.Home h1 {
+  font-size: 24px;
+  color: #f41111;
+}
+
+.Home img {
+  width: 200px;
+  height: 200px;
+  margin-bottom: 20px;
+}
+
+.Home .card-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.Home .card {
+  width: 200px;
+  margin: 10px;
+  padding: 10px;
+  background-color: #f4f4f4;
+  border-radius: 5px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.Home .card h2 {
+  font-size: 18px;
+  color: #333;
+}
+
+.Home .card p {
+  font-size: 14px;
+  color: #666;
+}
